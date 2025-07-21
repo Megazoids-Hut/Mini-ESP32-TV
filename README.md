@@ -1,10 +1,11 @@
 # Mini ESP32 TV (remix)
 
-![1](https://github.com/user-attachments/assets/5a1431e3-3b83-4518-a6fb-23a481805ee6)
+![1_s](https://github.com/user-attachments/assets/1714ddee-1a2a-4d19-bdf6-d33a364765dd)
 
-The project is a reworking of [Moononournation's Mini Retro TV](https://www.instructables.com/Mini-Retro-TV/). New case, new PCB, code alterations for added fuctions (I had help!) and a movie file convertor which I did make. 
 
-I've already splattered this project all over the Internet, but I wanted the files accessable on GitHub. It's posted on the following sites which are going to be easier to read and have way more pictures :  
+The project is a reworking of [Moononournation's Mini Retro TV](https://www.instructables.com/Mini-Retro-TV/). New case, PCB, code alterations for added fuctions (I had help!) and a movie file converter program. 
+
+I've already splattered this project all over the Internet, but I wanted the files accessable on GitHub. It's posted on the following sites, which will have full build instructions :  
 https://www.hackster.io/megazoid/mini-esp32-tv-remix-797a71  
 https://www.instructables.com/member/Megazoids%20Hut/instructables/drafts  
 https://www.thingiverse.com/thing:6330378  
@@ -17,7 +18,8 @@ https://www.thingiverse.com/thing:6330378
 
 # Supplies
 
-![5](https://github.com/user-attachments/assets/d4909e54-0a1f-4108-a55e-f6920c0f83dc)
+![5_s](https://github.com/user-attachments/assets/c64748a8-c6c0-4799-8fb2-880fb498b689)
+
 
 
 1 x 1.69 Inch LCD display module (LCD Module - Square edges) [AliExpress](https://vi.aliexpress.com/item/1005003762571358.html)  
@@ -41,7 +43,7 @@ Black and Red Silicone Wire (around 26AWG)
 Heat Shrink Tubing (optional)  
 Brown, Black and Grey PLA+  
 
-The PCB can be ordered from a PCB fabrication manufacturer Like JLBPCB : [Gerber File Zip](https://github.com/Megazoids-Hut/Mini_ESP32_TV/blob/main/MiniESP32TV%20Gerber%20Files/Gerber_Mini_Esp32_Tv.zip) (Use default PCB board settings. 1.6mm thickness etc. Just upload the gerber zip and order)
+The PCB can be ordered from a PCB fabrication manufacturer Like JLBPCB : [Gerber File Zip](https://github.com/Megazoids-Hut/Mini-ESP32-TV/blob/main/gerber/Gerber_Mini_Esp32_Tv.zip) (Use default PCB board settings. 1.6mm thickness etc. Just upload the gerber zip and order)
 Notes : When ordering parts, make sure they correspond with the ones in my pictures.For example there are two (or more) different 1.69 LCD displays out there, and many different D1 mini's
 
 # Story
