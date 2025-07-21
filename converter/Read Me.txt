@@ -1,0 +1,43 @@
+====================================
+Mini Retro TV - Video Convertor v0.2
+====================================
+
+
+1.  Open MiniTV_Converter.exe
+   ## Notes : Do not close the black Command Prompt window in the background.
+
+2.  Enter full YouTube URL, and click Download.
+   ## Notes : This will download the highest resolution available and store it in am MP4 format. 
+      It also works with other sites like Rumble, BitChute, Dailymotion etc. 
+
+3.  The crop function will crop the video prior to conversion to mjpeg.
+   ## Notes : This can handle 480p, 720p and 1080p videos only. Cropping can take
+      some time (1 min. per 10 minutes of video approx).
+
+4.  Select Video and Make Small, converts a movie to the Mini Retro TV format (288_30fps.mjpeg).
+
+5.  Select Video to Extract Audio, will convert the movie to ACC audio (44100.aac)
+
+5.1 Optional : Select the Decibel (dB) level of the clip. 
+   ## Notes : I've dropped MY sound level to -8DB (the default) because I didn't use an additional 
+      100k resistor on the MAX98357 audio board. If you have used a resistor, try a higher value. 
+      Warning: Setting a very high level could cause distortion, and may even damage the speaker.
+
+6. Transfer the 288_30fps.mjpeg and 44100.aac files to the Mini Retro TV microSD card. Either 
+   create a new folder (and call it 4, or 5, or whatever number is next), or overwrite previous 
+   files in one of the numbered folders.
+
+
+
+*Final note: yt-dlp.exe may need periodic updating from : https://github.com/yt-dlp/yt-dlp
+
+Coding by ChatGPT - Human assistant Megazoid
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
