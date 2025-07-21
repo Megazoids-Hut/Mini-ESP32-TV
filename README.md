@@ -7,7 +7,7 @@ The project is a reworking of [Moononournation's Mini Retro TV](https://www.inst
 
 I've already splattered this project all over the Internet, but I wanted the files accessable on GitHub. It's posted on the following sites, which will have full build instructions :  
 https://www.hackster.io/megazoid/mini-esp32-tv-remix-797a71  
-https://www.instructables.com/member/Megazoids%20Hut/instructables/drafts  
+https://www.instructables.com/Mini-ESP32-TV-remix  
 https://www.thingiverse.com/thing:6330378  
 
 > YouTube Demo : https://www.youtube.com/watch?v=mP0zoM2Ufms  
