@@ -13,9 +13,8 @@ https://www.thingiverse.com/thing:6330378
 > YouTube Demo : https://www.youtube.com/watch?v=mP0zoM2Ufms  
 
 
-- [Supplies](#Supplies)
-- [Story](#Story)
-
+_________________________________  
+  
 # Supplies
 
 ![5_s](https://github.com/user-attachments/assets/c64748a8-c6c0-4799-8fb2-880fb498b689)
@@ -44,8 +43,10 @@ Heat Shrink Tubing (optional)
 Brown, Black and Grey PLA+  
 
 The PCB can be ordered from a PCB fabrication manufacturer Like JLBPCB : [Gerber File Zip](https://github.com/Megazoids-Hut/Mini-ESP32-TV/blob/main/gerber/Gerber_Mini_Esp32_Tv.zip) (Use default PCB board settings. 1.6mm thickness etc. Just upload the gerber zip and order)
-Notes : When ordering parts, make sure they correspond with the ones in my pictures.For example there are two (or more) different 1.69 LCD displays out there, and many different D1 mini's
-
+Notes : When ordering parts, make sure they correspond with the ones in my pictures.For example there are two (or more) different 1.69 LCD displays out there, and many different D1 mini's  
+  
+_________________________________  
+  
 # Story
 
 This Mini ESP32 TV project is remix of Moononournation's [Mini-Retro-TV](https://www.instructables.com/Mini-Retro-TV/) Instructable. I wanted to try something with a PCB, and the slightly cheaper D1 mini ESP32. It has a front facing on/off button, and a single multi function button that can change movie clips forwards and backward and mute the TV if needed.
