@@ -1,10 +1,9 @@
 ====================================
-Mini Retro TV - Video Convertor v0.2
+Mini Retro TV - Video Convertor v0.4
 ====================================
 
 
-1.  Open MiniTV_Converter.exe
-   ## Notes : Do not close the black Command Prompt window in the background.
+1.  Open MiniTV_Converter_v0.4.exe
 
 2.  Enter full YouTube URL, and click Download.
    ## Notes : This will download the highest resolution available and store it in am MP4 format. 
@@ -28,10 +27,9 @@ Mini Retro TV - Video Convertor v0.2
    files in one of the numbered folders.
 
 
+*Final note: yt-dlp.exe may need periodic. There is an update button at the bottom of the GUI... or updating from : https://github.com/yt-dlp/yt-dlp
 
-*Final note: yt-dlp.exe may need periodic updating from : https://github.com/yt-dlp/yt-dlp
-
-Coding by ChatGPT - Human assistant Megazoid
+Coding by ChatGPT/Gemini CLI - Human assistant Megazoid
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
