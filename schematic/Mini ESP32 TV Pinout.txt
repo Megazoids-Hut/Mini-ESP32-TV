@@ -1,0 +1,30 @@
+GPIO PINS
+-----------
+TFT DISPLAY 1.69"
+
+5 = TFT CS
+18 = SCL
+22 = BLK
+23 = SDA 
+27 = DC
+33 = RES
+
+-----------
+MAX98357A Audio Amplifier
+
+25 = BCLK
+26 = LCR
+32 = DIN
+-----------
+Micro-SD-Reader
+
+4 = MISO
+13 = CS
+14 = CLK
+15 = MOSI
+-----------
+Function Button
+
+21 = FUNC
+-----------
+
